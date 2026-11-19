@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Desktop-Agents-UI-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Desktop-Agents-UI-Automation?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Desktop-Agents-UI-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Desktop-Agents-UI-Automation?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Desktop-Agents-UI-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Desktop-Agents-UI-Automation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Desktop-Agents-UI-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ The table below summarizes leading hosted and enterprise-grade AI desktop agent 
 
 ## 🛠️ Open-Source GitHub Projects
 
-Below is the directory of active open-source AI desktop agents, screen parsers, multimodal grounding models, and UI automation SDKs, **sorted by GitHub star counts in descending order**. Each project includes an official live social star badge linking directly to its stargazers page.
+Below is the directory of active open-source AI desktop agents, screen parsers, multimodal grounding models, and UI automation SDKs, **sorted by GitHub Stars_Counts in descending order**. Each project includes an official live social Stars_Badge linking directly to its stargazers page.
 
-| Repository | GitHub Stars Badge | License | Category & Key Highlights |
+| Repository | GitHub_Stars_Badge | License | Category & Key Highlights |
 | :--- | :---: | :---: | :--- |
 | **[Browser-Use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** | [![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers) | `MIT` | 🌐 **Browser Automation Agent**: Industry standard framework connecting LLMs directly to Playwright browsers via indexed DOM and vision extraction for autonomous web workflows. |
 | **[Playwright (`microsoft/playwright`)](https://github.com/microsoft/playwright)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | `Apache-2.0` | 🎭 **Browser Automation Infrastructure**: Fast, reliable end-to-end browser automation for Chromium, Firefox, and WebKit used as the core execution engine for modern AI web agents. |
